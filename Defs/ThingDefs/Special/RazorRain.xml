@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Buildings>
+
+  <ThingDef>
+    <defName>RazorRainIncoming</defName>
+    <category>Skyfaller</category>
+    <label>Razor Rain (incoming)</label>
+    <thingClass>RazorRainIncoming</thingClass>
+    <tickerType>Normal</tickerType>
+    <graphicData>
+      <texPath>Things/Item/Resource/Metal</texPath>
+      <graphicClass>Graphic_Random</graphicClass>
+      <shaderType>CutoutFlying</shaderType>
+    </graphicData>
+    <altitudeLayer>MetaOverlays</altitudeLayer>
+    <useHitPoints>false</useHitPoints>
+  </ThingDef>
+
+	<ThingDef>
+		<defName>Thing_RazorSpawner</defName>
+    <label>Razor Spawner</label>
+		<thingClass>Thing_RazorSpawner</thingClass>
+    <graphicData>
+      <texPath>Razor/entityspawn</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+		<tickerType>Rare</tickerType>
+	</ThingDef>
+
+</Buildings>

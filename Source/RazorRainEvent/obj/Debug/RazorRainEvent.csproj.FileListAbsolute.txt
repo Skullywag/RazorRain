@@ -1,0 +1,15 @@
+C:\Users\mjsku_000\Desktop\RimWorld857Win\Mods\RazorRainEvent\Source\RazorRainEvent\obj\Debug\RazorRainEvent.csprojResolveAssemblyReference.cache
+C:\Users\mjsku_000\Desktop\RimWorld857Win\Mods\RazorRainEvent\Source\RazorRainEvent\bin\Debug\RazorRainEvent.dll
+C:\Users\mjsku_000\Desktop\RimWorld857Win\Mods\RazorRainEvent\Source\RazorRainEvent\bin\Debug\RazorRainEvent.pdb
+C:\Users\mjsku_000\Desktop\RimWorld857Win\Mods\RazorRainEvent\Source\RazorRainEvent\obj\Debug\RazorRainEvent.dll
+C:\Users\mjsku_000\Desktop\RimWorld857Win\Mods\RazorRainEvent\Source\RazorRainEvent\obj\Debug\RazorRainEvent.pdb
+C:\Users\mjsku_000\Desktop\RimWorld900WinDev\Mods\RazorRainEvent\Source\RazorRainEvent\bin\Debug\RazorRainEvent.dll
+C:\Users\mjsku_000\Desktop\RimWorld900WinDev\Mods\RazorRainEvent\Source\RazorRainEvent\bin\Debug\RazorRainEvent.pdb
+C:\Users\mjsku_000\Desktop\RimWorld900WinDev\Mods\RazorRainEvent\Source\RazorRainEvent\obj\Debug\RazorRainEvent.csprojResolveAssemblyReference.cache
+C:\Users\mjsku_000\Desktop\RimWorld900WinDev\Mods\RazorRainEvent\Source\RazorRainEvent\obj\Debug\RazorRainEvent.dll
+C:\Users\mjsku_000\Desktop\RimWorld900WinDev\Mods\RazorRainEvent\Source\RazorRainEvent\obj\Debug\RazorRainEvent.pdb
+C:\Users\mjsku_000\Desktop\RimWorldAlpha12Win\RimWorld906Win\Mods\RazorRainEvent\Source\RazorRainEvent\bin\Debug\RazorRainEvent.dll
+C:\Users\mjsku_000\Desktop\RimWorldAlpha12Win\RimWorld906Win\Mods\RazorRainEvent\Source\RazorRainEvent\bin\Debug\RazorRainEvent.pdb
+C:\Users\mjsku_000\Desktop\RimWorldAlpha12Win\RimWorld906Win\Mods\RazorRainEvent\Source\RazorRainEvent\obj\Debug\RazorRainEvent.csprojResolveAssemblyReference.cache
+C:\Users\mjsku_000\Desktop\RimWorldAlpha12Win\RimWorld906Win\Mods\RazorRainEvent\Source\RazorRainEvent\obj\Debug\RazorRainEvent.dll
+C:\Users\mjsku_000\Desktop\RimWorldAlpha12Win\RimWorld906Win\Mods\RazorRainEvent\Source\RazorRainEvent\obj\Debug\RazorRainEvent.pdb

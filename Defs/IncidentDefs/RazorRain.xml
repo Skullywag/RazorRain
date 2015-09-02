@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+
+  <IncidentDef>
+    <defName>RazorRain</defName>
+    <workerClass>IncidentWorker_RazorRain</workerClass>
+    <chance>0.2</chance>
+    <category>ThreatBig</category>
+    <pointsScaleable>false</pointsScaleable>
+  </IncidentDef>
+
+</Defs>
