@@ -5,7 +5,7 @@
   <IncidentDef>
     <defName>RazorRain</defName>
     <workerClass>IncidentWorker_RazorRain</workerClass>
-    <chance>0.2</chance>
+    <baseChance>0.2</baseChance>
     <category>ThreatBig</category>
     <pointsScaleable>false</pointsScaleable>
   </IncidentDef>

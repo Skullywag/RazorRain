@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>MeteoriteEvent</name>
+	<name>RazorRain</name>
 	<author>Skullywag</author>
-	<targetVersion>Alpha 12</targetVersion>
-	<description>Adds an event that makes meteorites crash into the Rimworld containing different resources.</description>
+	<targetVersion>Alpha 13</targetVersion>
+	<description>Adds an event that makes pieces of the ship in orbit rain down, sometimes leaving behind steel.</description>
 </ModMetaData>
